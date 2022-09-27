@@ -3,6 +3,7 @@
 本手册是我在一家中国大陆的中型商业银行做大数据系统工程师中进行的总结归纳，包含开发和运维的各方面的使用、应用场景和最佳实践，以及各个高可用架构的搭建和测试。
 
 下载和线上阅读最新版请访问：[https://www.gitbook.com/book/gnuhpc/redis-all-about/details](https://www.gitbook.com/book/gnuhpc/redis-all-about/details)
+edit:https://gnuhpc.gitbooks.io/redis-all-about/content/
 
 我会定期持续更新此指南，以供各位了解认识redis。
 
